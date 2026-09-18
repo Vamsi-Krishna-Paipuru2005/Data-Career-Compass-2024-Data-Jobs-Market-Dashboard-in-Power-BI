@@ -1,6 +1,6 @@
-# Data Jobs Dashboard 2.0 w/ Power BI
+# Data Career Compass: 2024 Data Jobs Market Dashboard in Power BI
 
-![Dashboard](images\Project2_Dashboard_Overview.gif)
+![Dashboard](images/Project2_Dashboard_Overview.gif)
 
 
 
