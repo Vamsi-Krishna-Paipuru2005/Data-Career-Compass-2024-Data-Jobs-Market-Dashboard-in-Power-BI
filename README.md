@@ -30,7 +30,7 @@ This project put key Power BI features into practice. Here's what we mastered:
     * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
 ---
 
-## Dashboard Overview (Version 2.0 - Single Page Focus)
+## Dashboard Overview (Version 2 - Single Page Focus)
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
 
